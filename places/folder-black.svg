@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     shape-rendering="crispEdges"
+     width="16" height="16"
+     viewBox="0 0 16 16">
+<title>folder-black</title>
+<path fill="#2E222F" d="M0 2h1v12h-1ZM1 1h6v1h-6ZM1 14h14v1h-14ZM7 2h1v1h-1ZM8 3h7v1h-7ZM15 4h1v10h-1Z"/>
+<path fill="#7F708A" d="M1 3h1v1h-1ZM1 2h6v1h-6ZM7 3h1v1h-1ZM8 4h7v1h-7Z"/>
+<path fill="#625565" d="M1 4h7v1h-7ZM1 12h13v1h-13ZM1 5h14v7h-14ZM2 3h5v1h-5Z"/>
+<path fill="#3E3546" d="M1 13h14v1h-14ZM14 12h1v1h-1Z"/>
+</svg>
